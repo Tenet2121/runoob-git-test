@@ -1,2 +1,2 @@
-git good 
+git distribute good 
 git 6
